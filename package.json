@@ -1,0 +1,11 @@
+{
+  "name": "templatebase",
+  "version": "1.0.0",
+  "description": "Esta es la base para todos mis themplates",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edd Remonts",
+  "license": "ISC"
+}
